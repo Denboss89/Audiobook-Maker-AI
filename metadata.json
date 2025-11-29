@@ -1,0 +1,7 @@
+{
+  "name": "Audiobook & Live Conversational AI",
+  "description": "Create audiobooks from text or engage in real-time voice conversations using Gemini's Live API. Supports MP3 export for text-to-speech and real-time transcription for conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
